@@ -1,0 +1,1 @@
+Salin isi folder sifm-lobar ini menimpa file yang sama di C:\laragon\www\sifm-lobar\ . app\config.php TIDAK ikut, jadi password MySQL aman. Lalu Ctrl+F5.
